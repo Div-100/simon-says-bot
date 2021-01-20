@@ -438,4 +438,4 @@ async def on_command_error(ctx, error):
         raise error
         
 
-client.run("ODAwNjk1NTI4OTcwNjQ5NjAw.YAV30g.Z1usR5kl46i6-qb5_dnc85DwlZ8")
+client.run(input("Enter the token: "))
